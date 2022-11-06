@@ -1,0 +1,18 @@
+<list>
+  <ru.mosit.pahotest.reader.JsonData>
+    <motion>23</motion>
+    <sound>0.7</sound>
+    <illuminance>12</illuminance>
+    <temperature>0.6</temperature>
+    <time>23:02</time>
+    <caseNumber>25</caseNumber>
+  </ru.mosit.pahotest.reader.JsonData>
+  <ru.mosit.pahotest.reader.JsonData>
+    <motion>23</motion>
+    <sound>0.7</sound>
+    <illuminance>12</illuminance>
+    <temperature>0.6</temperature>
+    <time>23:02</time>
+    <caseNumber>25</caseNumber>
+  </ru.mosit.pahotest.reader.JsonData>
+</list>
